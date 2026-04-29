@@ -1,0 +1,522 @@
+[
+  {
+    "id": 63970693446,
+    "index": 1,
+    "distance": 2006.25,
+    "start_index": 0,
+    "end_index": 685,
+    "avg_grade": 0.47785,
+    "avg_speed": 2.9203056768558953,
+    "avg_moving_speed": 2.9203056768558953,
+    "max_speed": 4.58,
+    "avg_hr": 150.855,
+    "max_hr": 171.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 280.306,
+    "elapsed_time": 687,
+    "moving_time": 687,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693452,
+    "index": 2,
+    "distance": 795.22,
+    "start_index": 686,
+    "end_index": 902,
+    "avg_grade": -0.376034,
+    "avg_speed": 3.6646082949308756,
+    "avg_moving_speed": 3.6646082949308756,
+    "max_speed": 5.3,
+    "avg_hr": 172.616,
+    "max_hr": 178.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 342.25,
+    "elapsed_time": 217,
+    "moving_time": 217,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693456,
+    "index": 3,
+    "distance": 400.25,
+    "start_index": 903,
+    "end_index": 1048,
+    "avg_grade": 0.355781,
+    "avg_speed": 2.7414383561643834,
+    "avg_moving_speed": 2.7414383561643834,
+    "max_speed": 3.753,
+    "avg_hr": 157.146,
+    "max_hr": 175.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 256.722,
+    "elapsed_time": 146,
+    "moving_time": 146,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693460,
+    "index": 4,
+    "distance": 802.02,
+    "start_index": 1049,
+    "end_index": 1264,
+    "avg_grade": 0.248509,
+    "avg_speed": 3.730325581395349,
+    "avg_moving_speed": 3.730325581395349,
+    "max_speed": 5.02,
+    "avg_hr": 172.363,
+    "max_hr": 180.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 353.377,
+    "elapsed_time": 215,
+    "moving_time": 215,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693466,
+    "index": 5,
+    "distance": 401.7,
+    "start_index": 1265,
+    "end_index": 1409,
+    "avg_grade": -1.83627,
+    "avg_speed": 2.770344827586207,
+    "avg_moving_speed": 2.770344827586207,
+    "max_speed": 3.84,
+    "avg_hr": 161.674,
+    "max_hr": 180.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 242.965,
+    "elapsed_time": 145,
+    "moving_time": 145,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693473,
+    "index": 6,
+    "distance": 801.89,
+    "start_index": 1410,
+    "end_index": 1619,
+    "avg_grade": -0.0501505,
+    "avg_speed": 3.8185238095238097,
+    "avg_moving_speed": 3.8185238095238097,
+    "max_speed": 5.2,
+    "avg_hr": 176.159,
+    "max_hr": 183.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 344.628,
+    "elapsed_time": 210,
+    "moving_time": 210,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693476,
+    "index": 7,
+    "distance": 398.86,
+    "start_index": 1620,
+    "end_index": 1772,
+    "avg_grade": 1.51668,
+    "avg_speed": 2.6069281045751636,
+    "avg_moving_speed": 2.6069281045751636,
+    "max_speed": 3.8,
+    "avg_hr": 167.013,
+    "max_hr": 182.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 284.291,
+    "elapsed_time": 153,
+    "moving_time": 153,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693482,
+    "index": 8,
+    "distance": 796.58,
+    "start_index": 1773,
+    "end_index": 1992,
+    "avg_grade": -0.422833,
+    "avg_speed": 3.620818181818182,
+    "avg_moving_speed": 3.620818181818182,
+    "max_speed": 5.4,
+    "avg_hr": 173.799,
+    "max_hr": 182.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 333.525,
+    "elapsed_time": 220,
+    "moving_time": 220,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693484,
+    "index": 9,
+    "distance": 398.23,
+    "start_index": 1993,
+    "end_index": 2142,
+    "avg_grade": 1.20767,
+    "avg_speed": 2.6372847682119205,
+    "avg_moving_speed": 2.6372847682119205,
+    "max_speed": 4.76,
+    "avg_hr": 166.035,
+    "max_hr": 181.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 256.287,
+    "elapsed_time": 151,
+    "moving_time": 151,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693488,
+    "index": 10,
+    "distance": 86.77,
+    "start_index": 2143,
+    "end_index": 2179,
+    "avg_grade": 0.0,
+    "avg_speed": 2.345135135135135,
+    "avg_moving_speed": 2.345135135135135,
+    "max_speed": 2.78,
+    "avg_hr": 160.111,
+    "max_hr": 161.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 235.222,
+    "elapsed_time": 37,
+    "moving_time": 37,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693493,
+    "index": 11,
+    "distance": 5.61,
+    "start_index": 2180,
+    "end_index": 2182,
+    "avg_grade": 0.0,
+    "avg_speed": 2.805,
+    "avg_moving_speed": 2.805,
+    "max_speed": 2.15,
+    "avg_hr": 159.0,
+    "max_hr": 159.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 188.0,
+    "elapsed_time": 2,
+    "moving_time": 2,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693496,
+    "index": 12,
+    "distance": 1998.86,
+    "start_index": 2183,
+    "end_index": 2913,
+    "avg_grade": -0.591419,
+    "avg_speed": 2.7344186046511627,
+    "avg_moving_speed": 2.7344186046511627,
+    "max_speed": 4.12,
+    "avg_hr": 158.344,
+    "max_hr": 166.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 241.057,
+    "elapsed_time": 731,
+    "moving_time": 731,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  },
+  {
+    "id": 63970693499,
+    "index": 13,
+    "distance": 6.06,
+    "start_index": 2914,
+    "end_index": 2918,
+    "avg_grade": -60.0,
+    "avg_speed": 1.212,
+    "avg_moving_speed": 1.212,
+    "max_speed": 2.76,
+    "avg_hr": 160.0,
+    "max_hr": 161.0,
+    "avg_cadence": null,
+    "max_cadence": null,
+    "avg_watts": 241.0,
+    "elapsed_time": 5,
+    "moving_time": 5,
+    "abbr": {
+      "distance": {
+        "long": "kilometers",
+        "short": "km"
+      },
+      "speed": {
+        "long": "minutes per kilometer",
+        "short": "/km"
+      },
+      "elevation": {
+        "long": "meters",
+        "short": "m"
+      },
+      "heartrate": {
+        "long": "beats per minute",
+        "short": "bpm"
+      },
+      "power": {
+        "long": "watts",
+        "short": "W"
+      }
+    }
+  }
+]

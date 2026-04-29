@@ -1,0 +1,28 @@
+{
+  "races": [
+    {
+      "name": "Istanbul Half Marathon",
+      "date": "2026-04-19",
+      "distance": "21.1",
+      "priority": "B"
+    },
+    {
+      "name": "Cadde 21K",
+      "date": "2026-05-24",
+      "distance": "21.1",
+      "priority": "C"
+    },
+    {
+      "name": "Edirne Half Marathon",
+      "date": "2026-09-06",
+      "distance": "21.1",
+      "priority": "C"
+    },
+    {
+      "name": "Istanbul Marathon",
+      "date": "2026-11-01",
+      "distance": "42.2",
+      "priority": "A"
+    }
+  ]
+}

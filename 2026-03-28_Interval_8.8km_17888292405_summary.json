@@ -1,0 +1,72 @@
+{
+    "Date": "2026-03-28",
+    "Type": "Interval",
+    "Workout": "8.8km Run",
+    "Pace": "5:26 / km",
+    "HR avg": "162",
+    "Feeling": "7/10",
+    "Strava No": "17888292405",
+    "Notes": "Weather was cold and rainy but I was feeling energetic before the run. My aim was to run 5x800 with 4:30 but I felt exhausted after 4th split so ended the run to be 2000+4x800+4x400+2000",
+    "Summary": [
+        {
+            "km": 2,
+            "tempo": "5:42",
+            "elevation_gain_mt": "10",
+            "heart_rate_bpm": 151
+        },
+        {
+            "km": 0.8,
+            "tempo": "4:32",
+            "elevation_gain_mt": "-3",
+            "heart_rate_bpm": 173
+        },
+        {
+            "km": 0.4,
+            "tempo": "6:04",
+            "elevation_gain_mt": "1",
+            "heart_rate_bpm": 157
+        },
+        {
+            "km": 0.8,
+            "tempo": "4:28",
+            "elevation_gain_mt": "2",
+            "heart_rate_bpm": 172
+        },
+        {
+            "km": 0.4,
+            "tempo": "6:00",
+            "elevation_gain_mt": "-7",
+            "heart_rate_bpm": 162
+        },
+        {
+            "km": 0.8,
+            "tempo": "4:21",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 176
+        },
+        {
+            "km": 0.4,
+            "tempo": "6:23",
+            "elevation_gain_mt": "6",
+            "heart_rate_bpm": 167
+        },
+        {
+            "km": 0.8,
+            "tempo": "4:36",
+            "elevation_gain_mt": "-3",
+            "heart_rate_bpm": 174
+        },
+        {
+            "km": 0.4,
+            "tempo": "6:19",
+            "elevation_gain_mt": "5",
+            "heart_rate_bpm": 166
+        },
+        {
+            "km": 2,
+            "tempo": "6:05",
+            "elevation_gain_mt": "-12",
+            "heart_rate_bpm": 158
+        }
+    ]
+}

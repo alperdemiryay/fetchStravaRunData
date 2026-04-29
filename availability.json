@@ -1,0 +1,18 @@
+{
+  "weekly_structure": {
+    "monday": "kickboxing",
+    "tuesday": "run",
+    "wednesday": "rest_or_kickboxing",
+    "thursday": "run",
+    "friday": "rest_or_kickboxing",
+    "saturday": "long_run",
+    "sunday": "easy_run_or_recovery"
+  },
+  "max_training_days": 4,
+  "double_sessions": false,
+  "preferred_workouts": [
+    "interval",
+    "tempo",
+    "long_run"
+  ]
+}

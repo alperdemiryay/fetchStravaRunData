@@ -1,0 +1,96 @@
+{
+    "Date": "2026-04-06",
+    "Type": "Long",
+    "Workout": "14km Run",
+    "Pace": "5:36 / km",
+    "HR avg": "157",
+    "Feeling": "6/10",
+    "Strava No": "17994443952",
+    "Notes": "It was a little bit hard after 10km. I guess I am a little bit rusty for longer runs than 10km. Took 2 days to fully recover.",
+    "Summary": [
+        {
+            "km": 1,
+            "tempo": "5:10",
+            "elevation_gain_mt": "-21",
+            "heart_rate_bpm": 135
+        },
+        {
+            "km": 2,
+            "tempo": "5:15",
+            "elevation_gain_mt": "-18",
+            "heart_rate_bpm": 147
+        },
+        {
+            "km": 3,
+            "tempo": "5:39",
+            "elevation_gain_mt": "1",
+            "heart_rate_bpm": 148
+        },
+        {
+            "km": 4,
+            "tempo": "5:29",
+            "elevation_gain_mt": "-1",
+            "heart_rate_bpm": 152
+        },
+        {
+            "km": 5,
+            "tempo": "5:24",
+            "elevation_gain_mt": "-1",
+            "heart_rate_bpm": 156
+        },
+        {
+            "km": 6,
+            "tempo": "5:27",
+            "elevation_gain_mt": "1",
+            "heart_rate_bpm": 159
+        },
+        {
+            "km": 7,
+            "tempo": "5:41",
+            "elevation_gain_mt": "2",
+            "heart_rate_bpm": 158
+        },
+        {
+            "km": 8,
+            "tempo": "5:37",
+            "elevation_gain_mt": "-1",
+            "heart_rate_bpm": 160
+        },
+        {
+            "km": 9,
+            "tempo": "5:31",
+            "elevation_gain_mt": "-1",
+            "heart_rate_bpm": 163
+        },
+        {
+            "km": 10,
+            "tempo": "5:36",
+            "elevation_gain_mt": "2",
+            "heart_rate_bpm": 162
+        },
+        {
+            "km": 11,
+            "tempo": "5:36",
+            "elevation_gain_mt": "1",
+            "heart_rate_bpm": 162
+        },
+        {
+            "km": 12,
+            "tempo": "5:40",
+            "elevation_gain_mt": "-1",
+            "heart_rate_bpm": 161
+        },
+        {
+            "km": 13,
+            "tempo": "6:28",
+            "elevation_gain_mt": "19",
+            "heart_rate_bpm": 162
+        },
+        {
+            "km": 14,
+            "tempo": "5:53",
+            "elevation_gain_mt": "16",
+            "heart_rate_bpm": 165
+        }
+    ]
+}

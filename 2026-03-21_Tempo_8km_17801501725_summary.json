@@ -1,0 +1,60 @@
+{
+    "Date": "2026-03-21",
+    "Type": "Tempo",
+    "Workout": "8km Run",
+    "Pace": "5:28 / km",
+    "HR avg": "167",
+    "Feeling": "5/10",
+    "Strava No": "17801501725",
+    "Notes": "Exhausting run with higher HR than normal because of haven't run more than a month",
+    "Summary": [
+        {
+            "km": 1,
+            "tempo": "5:30",
+            "elevation_gain_mt": "2",
+            "heart_rate_bpm": 150
+        },
+        {
+            "km": 2,
+            "tempo": "5:16",
+            "elevation_gain_mt": "7",
+            "heart_rate_bpm": 164
+        },
+        {
+            "km": 3,
+            "tempo": "5:20",
+            "elevation_gain_mt": "-7",
+            "heart_rate_bpm": 167
+        },
+        {
+            "km": 4,
+            "tempo": "5:24",
+            "elevation_gain_mt": "5",
+            "heart_rate_bpm": 168
+        },
+        {
+            "km": 5,
+            "tempo": "5:25",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 171
+        },
+        {
+            "km": 6,
+            "tempo": "5:26",
+            "elevation_gain_mt": "-6",
+            "heart_rate_bpm": 170
+        },
+        {
+            "km": 7,
+            "tempo": "5:46",
+            "elevation_gain_mt": "8",
+            "heart_rate_bpm": 172
+        },
+        {
+            "km": 8,
+            "tempo": "5:40",
+            "elevation_gain_mt": "-6",
+            "heart_rate_bpm": 172
+        }
+    ]
+}

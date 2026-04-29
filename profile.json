@@ -1,0 +1,80 @@
+{
+  "age": 35,
+  "weight_kg": 88,
+  "height_cm": 182,
+  "experience_level": "intermediate",
+  "body_composition_note": "weight slightly high for optimal endurance performance",
+
+  "performance_records": {
+    "400m": "1:41",
+    "800m": "3:27",
+    "1k": "4:20",
+    "1_mile": "7:07",
+    "2_mile": "14:37",
+    "5k": "23:03",
+    "10k": "47:28",
+    "15k": "1:23:32",
+    "10_mile": "1:30:01"
+  },
+
+  "derived_metrics": {
+    "5k_pace": "4:36/km",
+    "10k_pace": "4:44/km",
+    "estimated_half_marathon_pace": "5:07-5:15/km",
+    "estimated_marathon_pace": "6:01-6:10/km",
+    "speed_endurance_balance": "good_speed_moderate_endurance",
+    "fatigue_resistance": "needs_improvement",
+    "vo2max_latest": 51
+  },
+
+  "training_stats_2026": {
+    "activities": 15,
+    "total_distance_km": 130.8,
+    "total_time": "11:48:00",
+    "elevation_gain_m": 855,
+    "avg_distance_per_run_km": 8.7,
+    "consistency": "moderate"
+  },
+
+  "lifetime_stats": {
+    "activities": 126,
+    "total_distance_km": 1044.0,
+    "total_time": "107:28:00",
+    "elevation_gain_m": 8395
+  },
+
+  "fitness_assessment": {
+    "current_level": "moderate",
+    "strengths": [
+      "solid 5k and 10k speed",
+      "good short interval capability"
+    ],
+    "weaknesses": [
+      "endurance beyond 10k",
+      "fatigue accumulation with cross training",
+      "long run adaptation"
+    ]
+  },
+
+  "heart_rate": {
+    "max_hr": 185,
+    "resting_hr_estimated": 58,
+    "hr_zone_1": 120,
+    "hr_zone_2": 150,
+    "hr_zone_3": 165,
+    "hr_zone_4": 179,
+    "hr_zone_5": 180
+  },
+
+  "training_constraints": [
+    "kickboxing_training",
+    "limited_recovery_capacity",
+    "high cumulative fatigue risk"
+  ],
+
+  "coach_notes": [
+    "athlete has good speed but HM success depends on aerobic base",
+    "training should prioritize zone 2 volume and long runs",
+    "intensity must be carefully controlled due to cross training load"
+  ]
+}

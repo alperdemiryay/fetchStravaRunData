@@ -1,0 +1,60 @@
+{
+    "Date": "2026-04-14",
+    "Type": "Intervall",
+    "Workout": "8km Run",
+    "Pace": "6:36 / km",
+    "HR avg": "154",
+    "Feeling": "7/10",
+    "Strava No": "18104321635",
+    "Notes": "Tried to run 1.75km warmup @6:00 + 5x1km @5:00 pace with 90s joggings @7:30 + 1km cooldown @6:30",
+    "Summary": [
+        {
+            "km": 1,
+            "tempo": "6:54",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 132
+        },
+        {
+            "km": 2,
+            "tempo": "6:22",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 145
+        },
+        {
+            "km": 3,
+            "tempo": "6:18",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 155
+        },
+        {
+            "km": 4,
+            "tempo": "6:25",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 157
+        },
+        {
+            "km": 5,
+            "tempo": "6:27",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 161
+        },
+        {
+            "km": 6,
+            "tempo": "6:28",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 164
+        },
+        {
+            "km": 7,
+            "tempo": "6:27",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 167
+        },
+        {
+            "km": 8,
+            "tempo": "7:30",
+            "elevation_gain_mt": "0",
+            "heart_rate_bpm": 153
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Date": "2026-04-11",
+    "Type": "Easy",
+    "Workout": "8km Run",
+    "Pace": "6:42 / km",
+    "HR avg": "136",
+    "Feeling": "8/10",
+    "Strava No": "18066926842",
+    "Notes": "Lots of elevaton changes and I have tried to keep my HR under 140. Sometimes short but steep elevation changes made my HR to peak instantly so I needed to run much slower.",
+    "Summary": [
+        {
+            "km": 1,
+            "tempo": "5:43",
+            "elevation_gain_mt": "-26",
+            "heart_rate_bpm": 129
+        },
+        {
+            "km": 2,
+            "tempo": "6:41",
+            "elevation_gain_mt": "12",
+            "heart_rate_bpm": 136
+        },
+        {
+            "km": 3,
+            "tempo": "6:39",
+            "elevation_gain_mt": "-2",
+            "heart_rate_bpm": 136
+        },
+        {
+            "km": 4,
+            "tempo": "6:44",
+            "elevation_gain_mt": "-7",
+            "heart_rate_bpm": 134
+        },
+        {
+            "km": 5,
+            "tempo": "7:09",
+            "elevation_gain_mt": "31",
+            "heart_rate_bpm": 139
+        },
+        {
+            "km": 6,
+            "tempo": "6:43",
+            "elevation_gain_mt": "-42",
+            "heart_rate_bpm": 136
+        },
+        {
+            "km": 7,
+            "tempo": "6:48",
+            "elevation_gain_mt": "1",
+            "heart_rate_bpm": 141
+        },
+        {
+            "km": 8,
+            "tempo": "7:12",
+            "elevation_gain_mt": "-2",
+            "heart_rate_bpm": 135
+        }
+    ]
+}

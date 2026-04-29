@@ -1,0 +1,48 @@
+{
+    "Date": "2026-04-04",
+    "Type": "Easy",
+    "Workout": "6km Run",
+    "Pace": "5:33 / km",
+    "HR avg": "154",
+    "Feeling": "7/10",
+    "Strava No": "17974920480",
+    "Notes": "Easy run before long run. Felt good but run controlled",
+    "Summary": [
+        {
+            "km": 1,
+            "tempo": "5:39",
+            "elevation_gain_mt": "3",
+            "heart_rate_bpm": 141
+        },
+        {
+            "km": 2,
+            "tempo": "5:31",
+            "elevation_gain_mt": "6",
+            "heart_rate_bpm": 154
+        },
+        {
+            "km": 3,
+            "tempo": "5:31",
+            "elevation_gain_mt": "-7",
+            "heart_rate_bpm": 155
+        },
+        {
+            "km": 4,
+            "tempo": "5:36",
+            "elevation_gain_mt": "6",
+            "heart_rate_bpm": 157
+        },
+        {
+            "km": 5,
+            "tempo": "5:32",
+            "elevation_gain_mt": "-2",
+            "heart_rate_bpm": 158
+        },
+        {
+            "km": 6,
+            "tempo": "5:33",
+            "elevation_gain_mt": "-5",
+            "heart_rate_bpm": 157
+        }
+    ]
+}

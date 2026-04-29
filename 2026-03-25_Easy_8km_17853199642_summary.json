@@ -1,0 +1,60 @@
+{
+    "Date": "2026-03-25",
+    "Type": "Easy",
+    "Workout": "8km Run",
+    "Pace": "5:55 / km",
+    "HR avg": "149",
+    "Feeling": "7/10",
+    "Strava No": "17853199642",
+    "Notes": "Easy run with a good feeling but HR is a little bit higher than expected most likely because of haven't slept well",
+    "Summary": [
+        {
+            "km": 1,
+            "tempo": "5:48",
+            "elevation_gain_mt": "2",
+            "heart_rate_bpm": 138
+        },
+        {
+            "km": 2,
+            "tempo": "5:51",
+            "elevation_gain_mt": "7",
+            "heart_rate_bpm": 150
+        },
+        {
+            "km": 3,
+            "tempo": "5:40",
+            "elevation_gain_mt": "-7",
+            "heart_rate_bpm": 149
+        },
+        {
+            "km": 4,
+            "tempo": "5:52",
+            "elevation_gain_mt": "6",
+            "heart_rate_bpm": 150
+        },
+        {
+            "km": 5,
+            "tempo": "5:59",
+            "elevation_gain_mt": "-3",
+            "heart_rate_bpm": 150
+        },
+        {
+            "km": 6,
+            "tempo": "6:03",
+            "elevation_gain_mt": "-2",
+            "heart_rate_bpm": 148
+        },
+        {
+            "km": 7,
+            "tempo": "6:14",
+            "elevation_gain_mt": "5",
+            "heart_rate_bpm": 151
+        },
+        {
+            "km": 8,
+            "tempo": "5:58",
+            "elevation_gain_mt": "-5",
+            "heart_rate_bpm": 154
+        }
+    ]
+}
