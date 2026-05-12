@@ -1,0 +1,72 @@
+{
+    "Date": "2026-04-24",
+    "Type": "Easy",
+    "Workout": "10km Run",
+    "Pace": "6:08 / km",
+    "HR avg": "145",
+    "Feeling": "6/10",
+    "Strava No": "18237996323",
+    "Notes": "Easy run after the race. HR was a little bit higher than usual.",
+    "Summary": [
+        {
+            "km": 1,
+            "tempo": "6:15",
+            "elevation_gain_mt": "1",
+            "heart_rate_bpm": 130
+        },
+        {
+            "km": 2,
+            "tempo": "6:28",
+            "elevation_gain_mt": "9",
+            "heart_rate_bpm": 141
+        },
+        {
+            "km": 3,
+            "tempo": "6:04",
+            "elevation_gain_mt": "-4",
+            "heart_rate_bpm": 142
+        },
+        {
+            "km": 4,
+            "tempo": "5:48",
+            "elevation_gain_mt": "-11",
+            "heart_rate_bpm": 148
+        },
+        {
+            "km": 5,
+            "tempo": "6:15",
+            "elevation_gain_mt": "7",
+            "heart_rate_bpm": 147
+        },
+        {
+            "km": 6,
+            "tempo": "6:16",
+            "elevation_gain_mt": "9",
+            "heart_rate_bpm": 149
+        },
+        {
+            "km": 7,
+            "tempo": "6:07",
+            "elevation_gain_mt": "-6",
+            "heart_rate_bpm": 145
+        },
+        {
+            "km": 8,
+            "tempo": "6:06",
+            "elevation_gain_mt": "-7",
+            "heart_rate_bpm": 147
+        },
+        {
+            "km": 9,
+            "tempo": "6:20",
+            "elevation_gain_mt": "8",
+            "heart_rate_bpm": 150
+        },
+        {
+            "km": 10,
+            "tempo": "5:50",
+            "elevation_gain_mt": "-9",
+            "heart_rate_bpm": 151
+        }
+    ]
+}

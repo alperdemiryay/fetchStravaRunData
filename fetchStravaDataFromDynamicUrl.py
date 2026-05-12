@@ -8,14 +8,15 @@ import re
 import time
 import os
 
-fetchTheLatestActivity = True
-ifNoLatestActivityId = 18153333411
-activityDate = "2026-04-18"
-feeling = "6/10"
-comments = "Elevation changes made the race a little bit hard to maintain the pace. Especially the sun made things harder. My target time was 110 mins that is what I was planned for. Gel eating and water stations at 5th 10th and 15th km made my pace to be slower than planned."
-runType = "Race"
+fetchTheLatestActivity = False
+ifNoLatestActivityId = 18477163474
+activityDate = "2026-05-12"
+feeling = "8/10"
+comments = "Interval run with 5x(800m @4:30 + 200m @7:30) 2km warmup before the intervals and 2km cooldown afterwards. Felt very good at fast session and I could have run faster or I could have done 5x1km but anyway this was very good and joyful run. My watch measured pace and distances wrong again because of I run this on treadmill." 
+runType = "Interval"
+treadmillRun = True
 
-COOKIE_STRING = '_strava4_session=ct9q833l3s747vrp3snq493spgvij9vc;'
+COOKIE_STRING = '_strava4_session=5m7ifodhmmmf6g7m50m9k6fm2smbt9f6;'
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
@@ -66,7 +67,7 @@ def fetch_strava_data():
         log("Step 1: Using provided activity ID...")
         latest_id = str(ifNoLatestActivityId)
         log(f"✅ Using Activity: ID={latest_id}, Date={activityDate}")
-    if runType == "Interval":
+    if runType == "Interval" and not treadmillRun:
         pace_url = f"https://www.strava.com/activities/{latest_id}/lap_efforts"
     else:
         pace_url = f"https://www.strava.com/activities/{latest_id}/streams?stream_types%5B%5D=altitude&stream_types%5B%5D=heartrate&stream_types%5B%5D=distance&stream_types%5B%5D=time"
@@ -84,7 +85,7 @@ def fetch_strava_data():
     log(f"Status: {resp.status_code}")
 
     log(f"Step 4: Creating summary run data and json file")
-    if runType == "Interval":
+    if runType == "Interval" and not treadmillRun:
         generate_interval_summary(f'theLatestRun_{latest_id}_Data.json')
     else:
         generate_splits_from_streams(f'theLatestRun_{latest_id}_Data.json')
